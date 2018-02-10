@@ -2,6 +2,7 @@
 # Infos
 Netacademia - Angular intro- Eseményvadász Course 
 
+
 https://netacademia.hu/Tanfolyam/2017angularintro-angular-intro--esemenyvadasz
 
 
