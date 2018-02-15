@@ -1,0 +1,12 @@
+ng build --prod
+
+
+Bootstrap
+https://github.com/angular/angular-cli/wiki/stories
+
+git remote add origin
+git status
+git commit -m 'üzenet h mit csináltam'
+git push origin master
+
+npm install bootstrap@next --save

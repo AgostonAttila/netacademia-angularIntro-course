@@ -1,0 +1,17 @@
+NG5
+
+rxjs/Observable
+
+
+
+Augury
+ng.probe($0)
+
+angular animation route change
+https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop
+
+Observable idõben elosztott collection
+
+JSBin
+
+http://reactivex.io/

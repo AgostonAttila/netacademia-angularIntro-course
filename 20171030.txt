@@ -1,0 +1,38 @@
+ng g s service
+ng g cl lass
+
+
+input/output decorator
+
+ng-container DOM-ban nem jelenik meg, ifnél használtuk
+
+
+template driven form pristine valid touched
+
+postman 
+
+firebase
+
+PUT teljes adatstruktúrát lecseréli
+POST letrehoz egy key id-t és ez alá írja be
+PATCH felülírás/update
+
+
+JSONPlaceholder
+
+
+npm install -g firebase-tools
+firebase login
+ng build --prod
+firebase init
+
+firebase hosting config-> dist mappa + redirects
+
+hosting:
+public: dist,
+rewrites:[
+source: **,
+destination: /index.html
+]
+
+

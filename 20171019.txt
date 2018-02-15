@@ -1,0 +1,18 @@
+Angular CLI ->Sass
+
+ng new my-app --style=css
+
+bs4+config is kell hozzá
+
+
+spread operator ...valtozo neve
+
+#elem  elemre hivatkozok
+
+
+// Object.assign(this, param)
+
+ const maxId = this.events.reduce((x, y) => x.id > y.id ? x : y).id;
+
+git reset --hard
+git pull --force origin master

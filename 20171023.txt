@@ -1,0 +1,53 @@
+firebase firestore
+
+gitlab vsgit bitbucket
+
+angular5 -> PWA képes
+
+GraphQL de inkább REST ha nagy alkalmazas
+
+&lt;sc--- &gt; ezt nem futtatja le a böngészõ
+<script...   > ezt igen
+
+Angular XSS védelem security
+
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
+NetNinja youtube
+
+git init
+git status
+git add index.html
+git history
+git remote -g
+git push origin master
+
+fetch változás nézése
+pull leszedés conflict lehet
+git reset --hard eldobom a változásokat
+
+git stash  visszaall a lokalis, elmenti stashbe working visszaall apply stashel visszajön
+
+git ignore
+
+git push/pull
+
+git log kilistázza commitokat
+
+git blame
+
+stash
+
+git checkout  kivettem abból a verzióból amin éppen állok
+
+git revert új commitot csinál amibõl kiveszi 
+
+git reset kitörli teljesen az egészet
+
+git clean csak a lokális változatokat ami nincs követve kitörli
+
+rebase történelem módósítás -ammend
+
+
+
+
