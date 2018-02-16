@@ -28,11 +28,19 @@ firebase init
 
 firebase hosting config-> dist mappa + redirects
 
-hosting:
-public: dist,
-rewrites:[
-source: **,
-destination: /index.html
-]
+{
+    "hosting": {
+        "public": "dist",
+        "rewrites": [
+            {
+                "source": "**",
+                "destination": "/index.html"
+            }
+        ]
+    }
+}
+
+
+firebase deploy
 
 
